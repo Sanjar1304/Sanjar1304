@@ -1,10 +1,8 @@
-
+[![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/54b6c068097599.5b50bca476b9b.gif)](https://Sanjar1304.github.io/rsschool-cv)
 <h1 align="center">Hi 👋, I'm Sanjar Suyunov</h1>
 <h3 align="center">A passionate frontend developer from <a href="https://www.google.com/maps/place/Tashkent,+Uzbekistan/@41.2822578,68.9991877,10z/data=!3m1!4b1!4m5!3m4!1s0x38ae8b0cc379e9c3:0xa5a9323b4aa5cb98!8m2!3d41.2994958!4d69.2400734">Tashkent, Uzbekistan</a></h3>
 
-<video  width="1200" height="400" controls>  
-   <source align="right" src="https://cdn.dribbble.com/users/2208826/screenshots/14288845/media/3c50d6de01f1a15f3aeb7f0121ebea2a.mp4" alt="coding" type="video/mp4"/>
-</video>
+
   
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanjar1304&label=Profile%20views&color=0e75b6&style=flat" alt="sanjar1304" /> </p>
 
