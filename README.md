@@ -1,8 +1,11 @@
 
 <h1 align="center">Hi 👋, I'm Sanjar Suyunov</h1>
 <h3 align="center">A passionate frontend developer from <a href="https://www.google.com/maps/place/Tashkent,+Uzbekistan/@41.2822578,68.9991877,10z/data=!3m1!4b1!4m5!3m4!1s0x38ae8b0cc379e9c3:0xa5a9323b4aa5cb98!8m2!3d41.2994958!4d69.2400734">Tashkent, Uzbekistan</a></h3>
-<img align="right" src="https://cdn.dribbble.com/users/2571505/screenshots/14197653/media/324034b1707825a543f520a98d30fdf2.gif" alt="coding" width="1200" height="600"/>
 
+<video  width="1200" height="400" controls>  
+   <source align="right" src="https://cdn.dribbble.com/users/2208826/screenshots/14288845/media/3c50d6de01f1a15f3aeb7f0121ebea2a.mp4" alt="coding" type="video/mp4"/>
+</video>
+  
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanjar1304&label=Profile%20views&color=0e75b6&style=flat" alt="sanjar1304" /> </p>
 
 - 🌱 I’m currently learning **Angular and JavaScript**
